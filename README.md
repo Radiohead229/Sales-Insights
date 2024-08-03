@@ -8,7 +8,7 @@ The **primary dataset** used for this analysis is the .**sql file** named db_dum
 
 ## Tools used 
 - MySQL [_Analysing the data_]
-- Microsoft PowerBI [_Cleaning the data and making reports and charts_]
+- Microsoft PowerBI [_Cleaning the data (ETL) and making reports and charts_]
 
 
 ### Data Analysis syntax(s) in MySQL
